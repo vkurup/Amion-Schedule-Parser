@@ -1,0 +1,551 @@
+Assignments for October 2011     (as of Oct 13 21:02 2011 eastern time)
+
+Field  1 - 3: Staff name, unique ID, backup ID
+Field  4 - 6: Assignment name (in quotes), unique ID, backup ID
+Field  7 - 8: Date and time of assignment
+
+"Smith",330,119,"Hospitalist 1       (5-1)   7a-7p",277,34,10-1-11,0700,1900
+"Johnson",236,1,"Hospitalist 2       (5-1)   7a-7p",278,35,10-1-11,0700,1900
+"Martinez",250,15,"Hospitalist 3       (5-2)   7a-7p",279,36,10-1-11,0700,1900
+"Williams",357,172,"Hospitalist 4      (5-2)    7a-7p",280,37,10-1-11,0700,1900
+"Carter",325,64,"Hospitalist 5      (5-3)   7a-7p",281,38,10-1-11,0700,1900
+"Cullen",434,326,"Hospitalist 6     (5-3)     7a-7p",282,39,10-1-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-1-11,0700,1800
+"Martinez",250,15,"9050 Morning",288,44,10-1-11,0700,1200
+"Michaels",323,62,"9050 Day Admit Shift 12p-9p",289,45,10-1-11,1200,2100
+"Beck",238,3,"Evening Admit Shift 3p-12mn",290,46,10-1-11,1500,0000
+"Wozniak",433,325,"Night Shift 1        9p-7a",291,47,10-1-11,2100,0700
+"Jobs",435,327,"Night Shift 2 (9050)   9p-7a",292,48,10-1-11,2100,0700
+"Michaels",323,62,"Jeopardy Back Up Call",293,49,10-1-11,0700,0700
+"Vick",259,24,"Teaching Service 1 7a-7p",294,50,10-1-11,0700,1900
+"Wakefield",257,22,"DUH Teaching",329,53,10-1-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-1-11,0800,0800
+"Smith",330,119,"Hospitalist 1       (5-1)   7a-7p",277,34,10-2-11,0700,1900
+"Polomalu",274,39,"Hospitalist 2       (5-1)   7a-7p",278,35,10-2-11,0700,1900
+"Martinez",250,15,"Hospitalist 3       (5-2)   7a-7p",279,36,10-2-11,0700,1900
+"Williams",357,172,"Hospitalist 4      (5-2)    7a-7p",280,37,10-2-11,0700,1900
+"Carter",325,64,"Hospitalist 5      (5-3)   7a-7p",281,38,10-2-11,0700,1900
+"Cullen",434,326,"Hospitalist 6     (5-3)     7a-7p",282,39,10-2-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-2-11,0700,1800
+"Polomalu",274,39,"9050 Morning",288,44,10-2-11,0700,1200
+"Johnson",236,1,"9050 Day Admit Shift 12p-9p",289,45,10-2-11,1200,2100
+"Michaels",323,62,"Evening Admit Shift 3p-12mn",290,46,10-2-11,1500,0000
+"Ender",432,324,"Night Shift 1        9p-7a",291,47,10-2-11,2100,0700
+"Wozniak",433,325,"Night Shift 2 (9050)   9p-7a",292,48,10-2-11,2100,0700
+"Johnson",236,1,"Jeopardy Back Up Call",293,49,10-2-11,0700,0700
+"Vick",259,24,"Teaching Service 1 7a-7p",294,50,10-2-11,0700,1900
+"Wakefield",257,22,"DUH Teaching",329,53,10-2-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-2-11,0800,0800
+"Smith",330,119,"Hospitalist 1       (5-1)   7a-7p",277,34,10-3-11,0700,1900
+"Polomalu",274,39,"Hospitalist 2       (5-1)   7a-7p",278,35,10-3-11,0700,1900
+"Martinez",250,15,"Hospitalist 3       (5-2)   7a-7p",279,36,10-3-11,0700,1900
+"Williams",357,172,"Hospitalist 4      (5-2)    7a-7p",280,37,10-3-11,0700,1900
+"Carter",325,64,"Hospitalist 5      (5-3)   7a-7p",281,38,10-3-11,0700,1900
+"Cullen",434,326,"Hospitalist 6     (5-3)     7a-7p",282,39,10-3-11,0700,1900
+"Barack",378,221,"Hospitalist 7          7a-7p",283,40,10-3-11,0700,1900
+"Lincoln",369,219,"Palliative Care DRH",284,41,10-3-11,0700,1900
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-3-11,0830,1700
+"Barack",378,221,"9050 Morning",288,44,10-3-11,0700,1200
+"Johnson",236,1,"9050 Day Admit Shift 12p-9p",289,45,10-3-11,1200,2100
+"Solomon",269,34,"Evening Admit Shift 3p-12mn",290,46,10-3-11,1500,0000
+"Wozniak",433,325,"Night Shift 1        9p-7a",291,47,10-3-11,2100,0700
+"Boston",239,4,"Night Shift 2 (9050)   9p-7a",292,48,10-3-11,2100,0700
+"Solomon",269,34,"Jeopardy Back Up Call",293,49,10-3-11,0700,0700
+"Vick",259,24,"Teaching Service 1 7a-7p",294,50,10-3-11,0700,1900
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-3-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-3-11,0800,0800
+"Smith",330,119,"Hospitalist 1       (5-1)   7a-7p",277,34,10-4-11,0700,1900
+"Polomalu",274,39,"Hospitalist 2       (5-1)   7a-7p",278,35,10-4-11,0700,1900
+"Martinez",250,15,"Hospitalist 3       (5-2)   7a-7p",279,36,10-4-11,0700,1900
+"Williams",357,172,"Hospitalist 4      (5-2)    7a-7p",280,37,10-4-11,0700,1900
+"Carter",325,64,"Hospitalist 5      (5-3)   7a-7p",281,38,10-4-11,0700,1900
+"Cullen",434,326,"Hospitalist 6     (5-3)     7a-7p",282,39,10-4-11,0700,1900
+"Barack",378,221,"Hospitalist 7          7a-7p",283,40,10-4-11,0700,1900
+"Lincoln",369,219,"Palliative Care DRH",284,41,10-4-11,0700,1900
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-4-11,0830,1700
+"Barack",378,221,"9050 Morning",288,44,10-4-11,0700,1200
+"Johnson",236,1,"9050 Day Admit Shift 12p-9p",289,45,10-4-11,1200,2100
+"Kiltman",352,167,"Evening Admit Shift 3p-12mn",290,46,10-4-11,1500,0000
+"Boston",239,4,"Night Shift 1        9p-7a",291,47,10-4-11,2100,0700
+"Lopez",321,60,"Night Shift 2 (9050)   9p-7a",292,48,10-4-11,2100,0700
+"Kurup",248,13,"Jeopardy Back Up Call",293,49,10-4-11,0700,0700
+"Vick",259,24,"Teaching Service 1 7a-7p",294,50,10-4-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-4-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-4-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-4-11,0800,0800
+"Smith",330,119,"Hospitalist 1       (5-1)   7a-7p",277,34,10-5-11,0700,1900
+"Polomalu",274,39,"Hospitalist 2       (5-1)   7a-7p",278,35,10-5-11,0700,1900
+"Martinez",250,15,"Hospitalist 3       (5-2)   7a-7p",279,36,10-5-11,0700,1900
+"Barack",378,221,"Hospitalist 4      (5-2)    7a-7p",280,37,10-5-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 5      (5-3)   7a-7p",281,38,10-5-11,0700,1900
+"Cullen",434,326,"Hospitalist 6     (5-3)     7a-7p",282,39,10-5-11,0700,1900
+"Todd",256,21,"Hospitalist 7          7a-7p",283,40,10-5-11,0700,1900
+"Lincoln",369,219,"Palliative Care DRH",284,41,10-5-11,0700,1900
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-5-11,0830,1700
+"Todd",256,21,"9050 Morning",288,44,10-5-11,0700,1200
+"Carter",325,64,"9050 Day Admit Shift 12p-9p",289,45,10-5-11,1200,2100
+"Williams",357,172,"Evening Admit Shift 3p-12mn",290,46,10-5-11,1500,0000
+"Lopez",321,60,"Night Shift 1        9p-7a",291,47,10-5-11,2100,0700
+"Kurup",248,13,"Night Shift 2 (9050)   9p-7a",292,48,10-5-11,2100,0700
+"Williams",357,172,"Jeopardy Back Up Call",293,49,10-5-11,0700,0700
+"Vick",259,24,"Teaching Service 1 7a-7p",294,50,10-5-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-5-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-5-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-5-11,0800,0800
+"Todd",256,21,"Hospitalist 1       (5-1)   7a-7p",277,34,10-6-11,0700,1900
+"Polomalu",274,39,"Hospitalist 2       (5-1)   7a-7p",278,35,10-6-11,0700,1900
+"Martinez",250,15,"Hospitalist 3       (5-2)   7a-7p",279,36,10-6-11,0700,1900
+"Barack",378,221,"Hospitalist 4      (5-2)    7a-7p",280,37,10-6-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 5      (5-3)   7a-7p",281,38,10-6-11,0700,1900
+"Ender",432,324,"Hospitalist 6     (5-3)     7a-7p",282,39,10-6-11,0700,1900
+"Solomon",269,34,"Hospitalist 7          7a-7p",283,40,10-6-11,0700,1900
+"Lincoln",369,219,"Palliative Care DRH",284,41,10-6-11,0700,1900
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-6-11,0830,1700
+"Solomon",269,34,"9050 Morning",288,44,10-6-11,0700,1200
+"Cullen",434,326,"9050 Day Admit Shift 12p-9p",289,45,10-6-11,1200,2100
+"Williams",357,172,"Evening Admit Shift 3p-12mn",290,46,10-6-11,1500,0000
+"Smith",330,119,"Night Shift 1        9p-7a",291,47,10-6-11,2100,0700
+"Kurup",248,13,"Night Shift 2 (9050)   9p-7a",292,48,10-6-11,2100,0700
+"Cullen",434,326,"Jeopardy Back Up Call",293,49,10-6-11,0700,0700
+"Gates",260,25,"Teaching Service 1 7a-7p",294,50,10-6-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-6-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-6-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-6-11,0800,0800
+"Todd",256,21,"Hospitalist 1       (5-1)   7a-7p",277,34,10-7-11,0700,1900
+"Polomalu",274,39,"Hospitalist 2       (5-1)   7a-7p",278,35,10-7-11,0700,1900
+"Solomon",269,34,"Hospitalist 3       (5-2)   7a-7p",279,36,10-7-11,0700,1900
+"Barack",378,221,"Hospitalist 4      (5-2)    7a-7p",280,37,10-7-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 5      (5-3)   7a-7p",281,38,10-7-11,0700,1900
+"Ender",432,324,"Hospitalist 6     (5-3)     7a-7p",282,39,10-7-11,0700,1900
+"Carter",325,64,"Hospitalist 7          7a-7p",283,40,10-7-11,0700,1900
+"Lincoln",369,219,"Palliative Care DRH",284,41,10-7-11,0700,1900
+"Carter",325,64,"9050 Morning",288,44,10-7-11,0700,1200
+"Martinez",250,15,"9050 Day Admit Shift 12p-9p",289,45,10-7-11,1200,2100
+"Cullen",434,326,"Evening Admit Shift 3p-12mn",290,46,10-7-11,1500,0000
+"Williams",357,172,"Night Shift 1        9p-7a",291,47,10-7-11,2100,0700
+"Kiltman",352,167,"Night Shift 2 (9050)   9p-7a",292,48,10-7-11,2100,0700
+"Martinez",250,15,"Jeopardy Back Up Call",293,49,10-7-11,0700,0700
+"Vick",259,24,"Teaching Service 1 7a-7p",294,50,10-7-11,0700,1900
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-7-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-7-11,0800,0800
+"Todd",256,21,"Hospitalist 1       (5-1)   7a-7p",277,34,10-8-11,0700,1900
+"Davis",246,11,"Hospitalist 2       (5-1)   7a-7p",278,35,10-8-11,0700,1900
+"Schmidt",356,171,"Hospitalist 3       (5-2)   7a-7p",279,36,10-8-11,0700,1900
+"College",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-8-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 5      (5-3)   7a-7p",281,38,10-8-11,0700,1900
+"Ender",432,324,"Hospitalist 6     (5-3)     7a-7p",282,39,10-8-11,0700,1900
+"Schmidt",356,171,"9050 Morning",288,44,10-8-11,0700,1200
+"Polomalu",274,39,"9050 Day Admit Shift 12p-9p",289,45,10-8-11,1200,2100
+"Barack",378,221,"Evening Admit Shift 3p-12mn",290,46,10-8-11,1500,0000
+"Cullen",434,326,"Night Shift 1        9p-7a",291,47,10-8-11,2100,0700
+"Boston",239,4,"Night Shift 2 (9050)   9p-7a",292,48,10-8-11,2100,0700
+"Barack",378,221,"Jeopardy Back Up Call",293,49,10-8-11,0700,0700
+"Vick",259,24,"Teaching Service 1 7a-7p",294,50,10-8-11,0700,1900
+"Vick",259,24,"Administrator on Call",347,56,10-8-11,0800,0800
+"Todd",256,21,"Hospitalist 1       (5-1)   7a-7p",277,34,10-9-11,0700,1900
+"Davis",246,11,"Hospitalist 2       (5-1)   7a-7p",278,35,10-9-11,0700,1900
+"Schmidt",356,171,"Hospitalist 3       (5-2)   7a-7p",279,36,10-9-11,0700,1900
+"College",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-9-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 5      (5-3)   7a-7p",281,38,10-9-11,0700,1900
+"Ender",432,324,"Hospitalist 6     (5-3)     7a-7p",282,39,10-9-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-9-11,0700,1800
+"Davis",246,11,"9050 Morning",288,44,10-9-11,0700,1200
+"Polomalu",274,39,"9050 Day Admit Shift 12p-9p",289,45,10-9-11,1200,2100
+"Barack",378,221,"Evening Admit Shift 3p-12mn",290,46,10-9-11,1500,0000
+"Boston",239,4,"Night Shift 1        9p-7a",291,47,10-9-11,2100,0700
+"Martinez",250,15,"Night Shift 2 (9050)   9p-7a",292,48,10-9-11,2100,0700
+"Polomalu",274,39,"Jeopardy Back Up Call",293,49,10-9-11,0700,0700
+"Vick",259,24,"Teaching Service 1 7a-7p",294,50,10-9-11,0700,1900
+"Vick",259,24,"Administrator on Call",347,56,10-9-11,0800,0800
+"Wozniak",433,325,"Hospitalist 1       (5-1)   7a-7p",277,34,10-10-11,0700,1900
+"Davis",246,11,"Hospitalist 2       (5-1)   7a-7p",278,35,10-10-11,0700,1900
+"Schmidt",356,171,"Hospitalist 3       (5-2)   7a-7p",279,36,10-10-11,0700,1900
+"College",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-10-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 5      (5-3)   7a-7p",281,38,10-10-11,0700,1900
+"Lopez",321,60,"Hospitalist 6     (5-3)     7a-7p",282,39,10-10-11,0700,1900
+"Michaels",323,62,"Hospitalist 7          7a-7p",283,40,10-10-11,0700,1900
+"Jones",273,38,"Palliative Care DRH",284,41,10-10-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-10-11,0700,1800
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-10-11,0830,1700
+"Michaels",323,62,"9050 Morning",288,44,10-10-11,0700,1200
+"Manson",249,14,"Evening Admit Shift 3p-12mn",290,46,10-10-11,1500,0000
+"Kurup",248,13,"Night Shift 1        9p-7a",291,47,10-10-11,2100,0700
+"Boston",239,4,"Night Shift 2 (9050)   9p-7a",292,48,10-10-11,2100,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-10-11,0700,1900
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-10-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-10-11,0800,0800
+"Wozniak",433,325,"Hospitalist 1       (5-1)   7a-7p",277,34,10-11-11,0700,1900
+"Davis",246,11,"Hospitalist 2       (5-1)   7a-7p",278,35,10-11-11,0700,1900
+"Schmidt",356,171,"Hospitalist 3       (5-2)   7a-7p",279,36,10-11-11,0700,1900
+"Camden",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-11-11,0700,1900
+"Michaels",323,62,"Hospitalist 5      (5-3)   7a-7p",281,38,10-11-11,0700,1900
+"Lopez",321,60,"Hospitalist 6     (5-3)     7a-7p",282,39,10-11-11,0700,1900
+"Johnson",236,1,"Hospitalist 7          7a-7p",283,40,10-11-11,0700,1900
+"Jones",273,38,"Palliative Care DRH",284,41,10-11-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-11-11,0700,1800
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-11-11,0830,1700
+"Johnson",236,1,"9050 Morning",288,44,10-11-11,0700,1200
+"O'Rourke",254,19,"9050 Day Admit Shift 12p-9p",289,45,10-11-11,1200,2100
+"Manson",249,14,"Evening Admit Shift 3p-12mn",290,46,10-11-11,1500,0000
+"Boston",239,4,"Night Shift 1        9p-7a",291,47,10-11-11,2100,0700
+"Todd",256,21,"Night Shift 2 (9050)   9p-7a",292,48,10-11-11,2100,0700
+"Manson",249,14,"Jeopardy Back Up Call",293,49,10-11-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-11-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-11-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-11-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-11-11,0800,0800
+"Wozniak",433,325,"Hospitalist 1       (5-1)   7a-7p",277,34,10-12-11,0700,1900
+"Davis",246,11,"Hospitalist 2       (5-1)   7a-7p",278,35,10-12-11,0700,1900
+"Johnson",236,1,"Hospitalist 3       (5-2)   7a-7p",279,36,10-12-11,0700,1900
+"Camden",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-12-11,0700,1900
+"Michaels",323,62,"Hospitalist 5      (5-3)   7a-7p",281,38,10-12-11,0700,1900
+"Lopez",321,60,"Hospitalist 6     (5-3)     7a-7p",282,39,10-12-11,0700,1900
+"Beck",238,3,"Hospitalist 7          7a-7p",283,40,10-12-11,0700,1900
+"Jones",273,38,"Palliative Care DRH",284,41,10-12-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-12-11,0700,1800
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-12-11,0830,1700
+"Beck",238,3,"9050 Morning",288,44,10-12-11,0700,1200
+"Manson",249,14,"Evening Admit Shift 3p-12mn",290,46,10-12-11,1500,0000
+"Schmidt",356,171,"Night Shift 1        9p-7a",291,47,10-12-11,2100,0700
+"O'Rourke",254,19,"Night Shift 2 (9050)   9p-7a",292,48,10-12-11,2100,0700
+"Schmidt",356,171,"Jeopardy Back Up Call",293,49,10-12-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-12-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-12-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-12-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-12-11,0800,0800
+"Wozniak",433,325,"Hospitalist 1       (5-1)   7a-7p",277,34,10-13-11,0700,1900
+"Beck",238,3,"Hospitalist 2       (5-1)   7a-7p",278,35,10-13-11,0700,1300
+"Butler",240,5,"Hospitalist 2       (5-1)   7a-7p",278,35,10-13-11,1300,1900
+"Johnson",236,1,"Hospitalist 3       (5-2)   7a-7p",279,36,10-13-11,0700,1900
+"Camden",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-13-11,0700,1900
+"Michaels",323,62,"Hospitalist 5      (5-3)   7a-7p",281,38,10-13-11,0700,1900
+"Lopez",321,60,"Hospitalist 6     (5-3)     7a-7p",282,39,10-13-11,0700,1900
+"Kurup",248,13,"Hospitalist 7          7a-7p",283,40,10-13-11,0700,1900
+"Jones",273,38,"Palliative Care DRH",284,41,10-13-11,0700,1900
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-13-11,0830,1700
+"Kurup",248,13,"9050 Morning",288,44,10-13-11,0700,1200
+"Kiltman",352,167,"9050 Day Admit Shift 12p-9p",289,45,10-13-11,1200,2100
+"Davis",246,11,"Evening Admit Shift 3p-12mn",290,46,10-13-11,1500,0000
+"O'Rourke",254,19,"Night Shift 1        9p-7a",291,47,10-13-11,2100,0700
+"Schmidt",356,171,"Night Shift 2 (9050)   9p-7a",292,48,10-13-11,2100,0700
+"Davis",246,11,"Jeopardy Back Up Call",293,49,10-13-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-13-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-13-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-13-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-13-11,0800,0800
+"Wozniak",433,325,"Hospitalist 1       (5-1)   7a-7p",277,34,10-14-11,0700,1900
+"Beck",238,3,"Hospitalist 2       (5-1)   7a-7p",278,35,10-14-11,0700,1900
+"Johnson",236,1,"Hospitalist 3       (5-2)   7a-7p",279,36,10-14-11,0700,1900
+"Kurup",248,13,"Hospitalist 4      (5-2)    7a-7p",280,37,10-14-11,0700,1900
+"Michaels",323,62,"Hospitalist 5      (5-3)   7a-7p",281,38,10-14-11,0700,1900
+"Lopez",321,60,"Hospitalist 6     (5-3)     7a-7p",282,39,10-14-11,0700,1900
+"Carter",325,64,"Hospitalist 7          7a-7p",283,40,10-14-11,0700,1900
+"Jones",273,38,"Palliative Care DRH",284,41,10-14-11,0700,1900
+"Carter",325,64,"9050 Morning",288,44,10-14-11,0700,1200
+"Camden",324,63,"9050 Day Admit Shift 12p-9p",289,45,10-14-11,1200,2100
+"Jones",247,12,"Evening Admit Shift 3p-12mn",290,46,10-14-11,1500,0000
+"Schmidt",356,171,"Night Shift 1        9p-7a",291,47,10-14-11,2100,0700
+"Davis",246,11,"Night Shift 2 (9050)   9p-7a",292,48,10-14-11,2100,0700
+"Jones",247,12,"Jeopardy Back Up Call",293,49,10-14-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-14-11,0700,1900
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-14-11,0800,1800
+"Beck",238,3,"Administrator on Call",347,56,10-14-11,0800,0800
+"Williams",357,172,"Hospitalist 1       (5-1)   7a-7p",277,34,10-15-11,0700,1900
+"Beck",238,3,"Hospitalist 2       (5-1)   7a-7p",278,35,10-15-11,0700,1900
+"Johnson",236,1,"Hospitalist 3       (5-2)   7a-7p",279,36,10-15-11,0700,1900
+"Kurup",248,13,"Hospitalist 4      (5-2)    7a-7p",280,37,10-15-11,0700,1900
+"Michaels",323,62,"Hospitalist 5      (5-3)   7a-7p",281,38,10-15-11,0700,1900
+"Carter",325,64,"Hospitalist 6     (5-3)     7a-7p",282,39,10-15-11,0700,1900
+"Williams",357,172,"9050 Morning",288,44,10-15-11,0700,1200
+"Wozniak",433,325,"9050 Day Admit Shift 12p-9p",289,45,10-15-11,1200,2100
+"Lopez",321,60,"Evening Admit Shift 3p-12mn",290,46,10-15-11,1500,0000
+"Davis",246,11,"Night Shift 1        9p-7a",291,47,10-15-11,2100,0700
+"Camden",324,63,"Night Shift 2 (9050)   9p-7a",292,48,10-15-11,2100,0700
+"Lopez",321,60,"Jeopardy Back Up Call",293,49,10-15-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-15-11,0700,1900
+"Beck",238,3,"Administrator on Call",347,56,10-15-11,0800,0800
+"Williams",357,172,"Hospitalist 1       (5-1)   7a-7p",277,34,10-16-11,0700,1900
+"Beck",238,3,"Hospitalist 2       (5-1)   7a-7p",278,35,10-16-11,0700,1900
+"Johnson",236,1,"Hospitalist 3       (5-2)   7a-7p",279,36,10-16-11,0700,1900
+"Kurup",248,13,"Hospitalist 4      (5-2)    7a-7p",280,37,10-16-11,0700,1900
+"Smith",330,119,"Hospitalist 5      (5-3)   7a-7p",281,38,10-16-11,0700,1900
+"Carter",325,64,"Hospitalist 6     (5-3)     7a-7p",282,39,10-16-11,0700,1900
+"Smith",330,119,"9050 Morning",288,44,10-16-11,0700,1200
+"Michaels",323,62,"9050 Day Admit Shift 12p-9p",289,45,10-16-11,1200,2100
+"Polomalu",274,39,"Evening Admit Shift 3p-12mn",290,46,10-16-11,1500,0000
+"Lopez",321,60,"Night Shift 1        9p-7a",291,47,10-16-11,2100,0700
+"Jobs",435,327,"Night Shift 2 (9050)   9p-7a",292,48,10-16-11,2100,0700
+"Polomalu",274,39,"Jeopardy Back Up Call",293,49,10-16-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-16-11,0700,1900
+"Beck",238,3,"Administrator on Call",347,56,10-16-11,0800,0800
+"Williams",357,172,"Hospitalist 1       (5-1)   7a-7p",277,34,10-17-11,0700,1900
+"Beck",238,3,"Hospitalist 2       (5-1)   7a-7p",278,35,10-17-11,0700,1900
+"Manson",249,14,"Hospitalist 3       (5-2)   7a-7p",279,36,10-17-11,0700,1900
+"Kurup",248,13,"Hospitalist 4      (5-2)    7a-7p",280,37,10-17-11,0700,1900
+"Smith",330,119,"Hospitalist 5      (5-3)   7a-7p",281,38,10-17-11,0700,1900
+"Carter",325,64,"Hospitalist 6     (5-3)     7a-7p",282,39,10-17-11,0700,1900
+"Barack",378,221,"Hospitalist 7          7a-7p",283,40,10-17-11,0700,1900
+"Medlin",452,421,"Palliative Care DRH",284,41,10-17-11,0700,1900
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-17-11,0830,1700
+"Barack",378,221,"9050 Morning",288,44,10-17-11,0700,1200
+"Johnson",236,1,"9050 Day Admit Shift 12p-9p",289,45,10-17-11,1200,2100
+"Michaels",323,62,"Evening Admit Shift 3p-12mn",290,46,10-17-11,1500,0000
+"Boston",239,4,"Night Shift 1        9p-7a",291,47,10-17-11,2100,0700
+"Lopez",321,60,"Night Shift 2 (9050)   9p-7a",292,48,10-17-11,2100,0700
+"Michaels",323,62,"Jeopardy Back Up Call",293,49,10-17-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-17-11,0700,1900
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-17-11,0800,1800
+"Butler",459,424,"NP-PA student 2      8a-6p",341,55,10-17-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-17-11,0800,0800
+"Williams",357,172,"Hospitalist 1       (5-1)   7a-7p",277,34,10-18-11,0700,1900
+"Barack",378,221,"Hospitalist 2       (5-1)   7a-7p",278,35,10-18-11,0700,1900
+"Manson",249,14,"Hospitalist 3       (5-2)   7a-7p",279,36,10-18-11,0700,1900
+"Kurup",248,13,"Hospitalist 4      (5-2)    7a-7p",280,37,10-18-11,0700,1900
+"Smith",330,119,"Hospitalist 5      (5-3)   7a-7p",281,38,10-18-11,0700,1900
+"Carter",325,64,"Hospitalist 6     (5-3)     7a-7p",282,39,10-18-11,0700,1900
+"Martinez",250,15,"Hospitalist 7          7a-7p",283,40,10-18-11,0700,1900
+"Medlin",452,421,"Palliative Care DRH",284,41,10-18-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-18-11,0700,1800
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-18-11,0830,1700
+"Martinez",250,15,"9050 Morning",288,44,10-18-11,0700,1200
+"Johnson",236,1,"9050 Day Admit Shift 12p-9p",289,45,10-18-11,1200,2100
+"Beck",238,3,"Evening Admit Shift 3p-12mn",290,46,10-18-11,1500,0000
+"Polomalu",274,39,"Night Shift 1        9p-7a",291,47,10-18-11,2100,0700
+"Boston",239,4,"Night Shift 2 (9050)   9p-7a",292,48,10-18-11,2100,0700
+"Beck",238,3,"Jeopardy Back Up Call",293,49,10-18-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-18-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-18-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-18-11,0800,1800
+"Butler",459,424,"NP-PA student 2      8a-6p",341,55,10-18-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-18-11,0800,0800
+"Williams",357,172,"Hospitalist 1       (5-1)   7a-7p",277,34,10-19-11,0700,1900
+"Barack",378,221,"Hospitalist 2       (5-1)   7a-7p",278,35,10-19-11,0700,1900
+"Manson",249,14,"Hospitalist 3       (5-2)   7a-7p",279,36,10-19-11,0700,1900
+"Martinez",250,15,"Hospitalist 4      (5-2)    7a-7p",280,37,10-19-11,0700,1900
+"Smith",330,119,"Hospitalist 5      (5-3)   7a-7p",281,38,10-19-11,0700,1900
+"Carter",325,64,"Hospitalist 6     (5-3)     7a-7p",282,39,10-19-11,0700,1900
+"Ender",432,324,"Hospitalist 7          7a-7p",283,40,10-19-11,0700,1900
+"Medlin",452,421,"Palliative Care DRH",284,41,10-19-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-19-11,0700,1800
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-19-11,0830,1700
+"Ender",432,324,"9050 Morning",288,44,10-19-11,0700,1200
+"Schmidt",356,171,"9050 Day Admit Shift 12p-9p",289,45,10-19-11,1200,2100
+"Wozniak",433,325,"Evening Admit Shift 3p-12mn",290,46,10-19-11,1500,0000
+"Beck",238,3,"Night Shift 1        9p-7a",291,47,10-19-11,2100,0700
+"Polomalu",274,39,"Night Shift 2 (9050)   9p-7a",292,48,10-19-11,2100,0700
+"Kurup",248,13,"Jeopardy Back Up Call",293,49,10-19-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-19-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-19-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-19-11,0800,1800
+"Butler",459,424,"NP-PA student 2      8a-6p",341,55,10-19-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-19-11,0800,0800
+"Williams",357,172,"Hospitalist 1       (5-1)   7a-7p",277,34,10-20-11,0700,1900
+"Barack",378,221,"Hospitalist 2       (5-1)   7a-7p",278,35,10-20-11,0700,1900
+"Manson",249,14,"Hospitalist 3       (5-2)   7a-7p",279,36,10-20-11,0700,1900
+"Martinez",250,15,"Hospitalist 4      (5-2)    7a-7p",280,37,10-20-11,0700,1900
+"Smith",330,119,"Hospitalist 5      (5-3)   7a-7p",281,38,10-20-11,0700,1900
+"Carter",325,64,"Hospitalist 6     (5-3)     7a-7p",282,39,10-20-11,0700,1900
+"Ender",432,324,"Hospitalist 7          7a-7p",283,40,10-20-11,0700,1900
+"Medlin",452,421,"Palliative Care DRH",284,41,10-20-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-20-11,0700,1800
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-20-11,0830,1700
+"Ender",432,324,"9050 Morning",288,44,10-20-11,0700,1200
+"Schmidt",356,171,"9050 Day Admit Shift 12p-9p",289,45,10-20-11,1200,2100
+"Ladder",261,26,"Evening Admit Shift 3p-12mn",290,46,10-20-11,1500,0000
+"Kurup",248,13,"Night Shift 1        9p-7a",291,47,10-20-11,2100,0700
+"Beck",238,3,"Night Shift 2 (9050)   9p-7a",292,48,10-20-11,2100,0700
+"Ladder",261,26,"Jeopardy Back Up Call",293,49,10-20-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-20-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-20-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-20-11,0800,1800
+"Butler",459,424,"NP-PA student 2      8a-6p",341,55,10-20-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-20-11,0800,0800
+"Williams",357,172,"Hospitalist 1       (5-1)   7a-7p",277,34,10-21-11,0700,1900
+"Barack",378,221,"Hospitalist 2       (5-1)   7a-7p",278,35,10-21-11,0700,1900
+"Manson",249,14,"Hospitalist 3       (5-2)   7a-7p",279,36,10-21-11,0700,1900
+"Martinez",250,15,"Hospitalist 4      (5-2)    7a-7p",280,37,10-21-11,0700,1900
+"Smith",330,119,"Hospitalist 5      (5-3)   7a-7p",281,38,10-21-11,0700,1900
+"Ender",432,324,"Hospitalist 6     (5-3)     7a-7p",282,39,10-21-11,0700,1900
+"Todd",256,21,"Hospitalist 7          7a-7p",283,40,10-21-11,0700,1900
+"Medlin",452,421,"Palliative Care DRH",284,41,10-21-11,0700,1900
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-21-11,0830,1700
+"Todd",256,21,"9050 Morning",288,44,10-21-11,0700,1200
+"Davis",246,11,"9050 Day Admit Shift 12p-9p",289,45,10-21-11,1200,2100
+"Schmidt",356,171,"Evening Admit Shift 3p-12mn",290,46,10-21-11,1500,0000
+"Carter",325,64,"Night Shift 1        9p-7a",291,47,10-21-11,2100,0700
+"Jobs",435,327,"Night Shift 2 (9050)   9p-7a",292,48,10-21-11,2100,0700
+"Schmidt",356,171,"Jeopardy Back Up Call",293,49,10-21-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-21-11,0700,1900
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-21-11,0800,1800
+"Butler",459,424,"NP-PA student 2      8a-6p",341,55,10-21-11,0800,1800
+"Todd",256,21,"Hospitalist 1       (5-1)   7a-7p",277,34,10-22-11,0700,1900
+"Barack",378,221,"Hospitalist 2       (5-1)   7a-7p",278,35,10-22-11,0700,1900
+"Manson",249,14,"Hospitalist 3       (5-2)   7a-7p",279,36,10-22-11,0700,1900
+"Martinez",250,15,"Hospitalist 4      (5-2)    7a-7p",280,37,10-22-11,0700,1900
+"Cullen",434,326,"Hospitalist 5      (5-3)   7a-7p",281,38,10-22-11,0700,1900
+"Ender",432,324,"Hospitalist 6     (5-3)     7a-7p",282,39,10-22-11,0700,1900
+"Cullen",434,326,"9050 Morning",288,44,10-22-11,0700,1200
+"Smith",330,119,"9050 Day Admit Shift 12p-9p",289,45,10-22-11,1200,2100
+"Williams",357,172,"Evening Admit Shift 3p-12mn",290,46,10-22-11,1500,0000
+"Carter",325,64,"Night Shift 1        9p-7a",291,47,10-22-11,2100,0700
+"Wozniak",433,325,"Night Shift 2 (9050)   9p-7a",292,48,10-22-11,2100,0700
+"Williams",357,172,"Jeopardy Back Up Call",293,49,10-22-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-22-11,0700,1900
+"Todd",256,21,"Hospitalist 1       (5-1)   7a-7p",277,34,10-23-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 2       (5-1)   7a-7p",278,35,10-23-11,0700,1900
+"Manson",249,14,"Hospitalist 3       (5-2)   7a-7p",279,36,10-23-11,0700,1900
+"Martinez",250,15,"Hospitalist 4      (5-2)    7a-7p",280,37,10-23-11,0700,1900
+"Cullen",434,326,"Hospitalist 5      (5-3)   7a-7p",281,38,10-23-11,0700,1900
+"Ender",432,324,"Hospitalist 6     (5-3)     7a-7p",282,39,10-23-11,0700,1900
+"O'Rourke",254,19,"9050 Morning",288,44,10-23-11,0700,1200
+"Polomalu",274,39,"9050 Day Admit Shift 12p-9p",289,45,10-23-11,1200,2100
+"Smith",330,119,"Evening Admit Shift 3p-12mn",290,46,10-23-11,1500,0000
+"Wozniak",433,325,"Night Shift 1        9p-7a",291,47,10-23-11,2100,0700
+"Williams",357,172,"Night Shift 2 (9050)   9p-7a",292,48,10-23-11,2100,0700
+"Polomalu",274,39,"Jeopardy Back Up Call",293,49,10-23-11,0700,0700
+"Wakefield",257,22,"Teaching Service 1 7a-7p",294,50,10-23-11,0700,1900
+"Todd",256,21,"Hospitalist 1       (5-1)   7a-7p",277,34,10-24-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 2       (5-1)   7a-7p",278,35,10-24-11,0700,1900
+"Manson",249,14,"Hospitalist 3       (5-2)   7a-7p",279,36,10-24-11,0700,1900
+"Camden",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-24-11,0700,1900
+"Cullen",434,326,"Hospitalist 5      (5-3)   7a-7p",281,38,10-24-11,0700,1900
+"Ender",432,324,"Hospitalist 6     (5-3)     7a-7p",282,39,10-24-11,0700,1900
+"Ladder",261,26,"Hospitalist 7          7a-7p",283,40,10-24-11,0700,1900
+"Jones",273,38,"Palliative Care DRH",284,41,10-24-11,0700,1900
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-24-11,0830,1700
+"Ladder",261,26,"9050 Morning",288,44,10-24-11,0700,1200
+"Polomalu",274,39,"9050 Day Admit Shift 12p-9p",289,45,10-24-11,1200,2100
+"Martinez",250,15,"Evening Admit Shift 3p-12mn",290,46,10-24-11,1500,0000
+"Boston",239,4,"Night Shift 1        9p-7a",291,47,10-24-11,2100,0700
+"Wozniak",433,325,"Night Shift 2 (9050)   9p-7a",292,48,10-24-11,2100,0700
+"Martinez",250,15,"Jeopardy Back Up Call",293,49,10-24-11,0700,0700
+"Davis",246,11,"Teaching Service 1 7a-7p",294,50,10-24-11,0700,1900
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-24-11,0800,1800
+"Butler",459,424,"NP-PA student 2      8a-6p",341,55,10-24-11,0800,1800
+"Todd",256,21,"Hospitalist 1       (5-1)   7a-7p",277,34,10-25-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 2       (5-1)   7a-7p",278,35,10-25-11,0700,1900
+"Manson",249,14,"Hospitalist 3       (5-2)   7a-7p",279,36,10-25-11,0700,1900
+"Camden",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-25-11,0700,1900
+"Cullen",434,326,"Hospitalist 5      (5-3)   7a-7p",281,38,10-25-11,0700,1900
+"Ladder",261,26,"Hospitalist 6     (5-3)     7a-7p",282,39,10-25-11,0700,1900
+"Kamen",268,33,"Hospitalist 7          7a-7p",283,40,10-25-11,0700,1900
+"Jones",273,38,"Palliative Care DRH",284,41,10-25-11,0700,1900
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-25-11,0830,1700
+"Kamen",268,33,"9050 Morning",288,44,10-25-11,0700,1200
+"Ender",432,324,"9050 Day Admit Shift 12p-9p",289,45,10-25-11,1200,2100
+"Martinez",250,15,"Evening Admit Shift 3p-12mn",290,46,10-25-11,1500,0000
+"Wozniak",433,325,"Night Shift 1        9p-7a",291,47,10-25-11,2100,0700
+"Boston",239,4,"Night Shift 2 (9050)   9p-7a",292,48,10-25-11,2100,0700
+"Ender",432,324,"Jeopardy Back Up Call",293,49,10-25-11,0700,0700
+"Davis",246,11,"Teaching Service 1 7a-7p",294,50,10-25-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-25-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-25-11,0800,1800
+"Butler",459,424,"NP-PA student 2      8a-6p",341,55,10-25-11,0800,1800
+"Todd",256,21,"Hospitalist 1       (5-1)   7a-7p",277,34,10-26-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 2       (5-1)   7a-7p",278,35,10-26-11,0700,1900
+"Johnson",236,1,"Hospitalist 3       (5-2)   7a-7p",279,36,10-26-11,0700,1900
+"Camden",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-26-11,0700,1900
+"Cullen",434,326,"Hospitalist 5      (5-3)   7a-7p",281,38,10-26-11,0700,1900
+"Ladder",261,26,"Hospitalist 6     (5-3)     7a-7p",282,39,10-26-11,0700,1900
+"Kamen",268,33,"Hospitalist 7          7a-7p",283,40,10-26-11,0700,1900
+"Jones",273,38,"Palliative Care DRH",284,41,10-26-11,0700,1900
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-26-11,0830,1700
+"Kamen",268,33,"9050 Morning",288,44,10-26-11,0700,1200
+"Solomon",269,34,"9050 Day Admit Shift 12p-9p",289,45,10-26-11,1200,2100
+"Ender",432,324,"Evening Admit Shift 3p-12mn",290,46,10-26-11,1500,0000
+"Boston",239,4,"Night Shift 1        9p-7a",291,47,10-26-11,2100,0700
+"Martinez",250,15,"Night Shift 2 (9050)   9p-7a",292,48,10-26-11,2100,0700
+"Solomon",269,34,"Jeopardy Back Up Call",293,49,10-26-11,0700,0700
+"Davis",246,11,"Teaching Service 1 7a-7p",294,50,10-26-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-26-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-26-11,0800,1800
+"Butler",459,424,"NP-PA student 2      8a-6p",341,55,10-26-11,0800,1800
+"Barack",378,221,"Hospitalist 1       (5-1)   7a-7p",277,34,10-27-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 2       (5-1)   7a-7p",278,35,10-27-11,0700,1900
+"Johnson",236,1,"Hospitalist 3       (5-2)   7a-7p",279,36,10-27-11,0700,1900
+"Camden",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-27-11,0700,1900
+"Michaels",323,62,"Hospitalist 5      (5-3)   7a-7p",281,38,10-27-11,0700,1900
+"Ladder",261,26,"Hospitalist 6     (5-3)     7a-7p",282,39,10-27-11,0700,1900
+"Kamen",268,33,"Hospitalist 7          7a-7p",283,40,10-27-11,0700,1900
+"Jones",273,38,"Palliative Care DRH",284,41,10-27-11,0700,1900
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-27-11,0830,1700
+"Kamen",268,33,"9050 Morning",288,44,10-27-11,0700,1200
+"Solomon",269,34,"9050 Day Admit Shift 12p-9p",289,45,10-27-11,1200,2100
+"Todd",256,21,"Evening Admit Shift 3p-12mn",290,46,10-27-11,1500,0000
+"Ender",432,324,"Night Shift 1        9p-7a",291,47,10-27-11,2100,0700
+"Boston",239,4,"Night Shift 2 (9050)   9p-7a",292,48,10-27-11,2100,0700
+"Todd",256,21,"Jeopardy Back Up Call",293,49,10-27-11,0700,0700
+"Davis",246,11,"Teaching Service 1 7a-7p",294,50,10-27-11,0700,1900
+"Butler",240,5,"Orthopedic Clinic",296,52,10-27-11,0800,1800
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-27-11,0800,1800
+"Butler",459,424,"NP-PA student 2      8a-6p",341,55,10-27-11,0800,1800
+"Barack",378,221,"Hospitalist 1       (5-1)   7a-7p",277,34,10-28-11,0700,1900
+"O'Rourke",254,19,"Hospitalist 2       (5-1)   7a-7p",278,35,10-28-11,0700,1900
+"Johnson",236,1,"Hospitalist 3       (5-2)   7a-7p",279,36,10-28-11,0700,1900
+"Camden",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-28-11,0700,1900
+"Michaels",323,62,"Hospitalist 5      (5-3)   7a-7p",281,38,10-28-11,0700,1900
+"Polomalu",274,39,"Hospitalist 6     (5-3)     7a-7p",282,39,10-28-11,0700,1900
+"Carter",325,64,"Hospitalist 7          7a-7p",283,40,10-28-11,0700,1900
+"Jones",273,38,"Palliative Care DRH",284,41,10-28-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-28-11,0700,1800
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-28-11,0830,1700
+"Carter",325,64,"9050 Morning",288,44,10-28-11,0700,1200
+"Solomon",269,34,"9050 Day Admit Shift 12p-9p",289,45,10-28-11,1200,2100
+"Wozniak",433,325,"Evening Admit Shift 3p-12mn",290,46,10-28-11,1500,0000
+"Todd",256,21,"Night Shift 1        9p-7a",291,47,10-28-11,2100,0700
+"Cullen",434,326,"Night Shift 2 (9050)   9p-7a",292,48,10-28-11,2100,0700
+"Solomon",269,34,"Jeopardy Back Up Call",293,49,10-28-11,0700,0700
+"Davis",246,11,"Teaching Service 1 7a-7p",294,50,10-28-11,0700,1900
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-28-11,0800,1800
+"Butler",459,424,"NP-PA student 2      8a-6p",341,55,10-28-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-28-11,0800,0800
+"Barack",378,221,"Hospitalist 1       (5-1)   7a-7p",277,34,10-29-11,0700,1900
+"Kurup",248,13,"Hospitalist 2       (5-1)   7a-7p",278,35,10-29-11,0700,1900
+"Johnson",236,1,"Hospitalist 3       (5-2)   7a-7p",279,36,10-29-11,0700,1900
+"Camden",324,63,"Hospitalist 4      (5-2)    7a-7p",280,37,10-29-11,0700,1900
+"Michaels",323,62,"Hospitalist 5      (5-3)   7a-7p",281,38,10-29-11,0700,1900
+"Polomalu",274,39,"Hospitalist 6     (5-3)     7a-7p",282,39,10-29-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-29-11,0700,1800
+"Kurup",248,13,"9050 Morning",288,44,10-29-11,0700,1200
+"O'Rourke",254,19,"9050 Day Admit Shift 12p-9p",289,45,10-29-11,1200,2100
+"Lopez",321,60,"Evening Admit Shift 3p-12mn",290,46,10-29-11,1500,0000
+"Cullen",434,326,"Night Shift 1        9p-7a",291,47,10-29-11,2100,0700
+"Todd",256,21,"Night Shift 2 (9050)   9p-7a",292,48,10-29-11,2100,0700
+"Lopez",321,60,"Jeopardy Back Up Call",293,49,10-29-11,0700,0700
+"Davis",246,11,"Teaching Service 1 7a-7p",294,50,10-29-11,0700,1900
+"Vick",259,24,"Administrator on Call",347,56,10-29-11,0800,0800
+"Barack",378,221,"Hospitalist 1       (5-1)   7a-7p",277,34,10-30-11,0700,1900
+"Kurup",248,13,"Hospitalist 2       (5-1)   7a-7p",278,35,10-30-11,0700,1900
+"Johnson",236,1,"Hospitalist 3       (5-2)   7a-7p",279,36,10-30-11,0700,1900
+"Beck",238,3,"Hospitalist 4      (5-2)    7a-7p",280,37,10-30-11,0700,1900
+"Michaels",323,62,"Hospitalist 5      (5-3)   7a-7p",281,38,10-30-11,0700,1900
+"Polomalu",274,39,"Hospitalist 6     (5-3)     7a-7p",282,39,10-30-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-30-11,0700,1800
+"Beck",238,3,"9050 Morning",288,44,10-30-11,0700,1200
+"Camden",324,63,"9050 Day Admit Shift 12p-9p",289,45,10-30-11,1200,2100
+"Lopez",321,60,"Evening Admit Shift 3p-12mn",290,46,10-30-11,1500,0000
+"O'Rourke",254,19,"Night Shift 1        9p-7a",291,47,10-30-11,2100,0700
+"Cullen",434,326,"Night Shift 2 (9050)   9p-7a",292,48,10-30-11,2100,0700
+"Camden",324,63,"Jeopardy Back Up Call",293,49,10-30-11,0700,0700
+"Davis",246,11,"Teaching Service 1 7a-7p",294,50,10-30-11,0700,1900
+"Vick",259,24,"Administrator on Call",347,56,10-30-11,0800,0800
+"Barack",378,221,"Hospitalist 1       (5-1)   7a-7p",277,34,10-31-11,0700,1900
+"Kurup",248,13,"Hospitalist 2       (5-1)   7a-7p",278,35,10-31-11,0700,1900
+"Schmidt",356,171,"Hospitalist 3       (5-2)   7a-7p",279,36,10-31-11,0700,1900
+"Beck",238,3,"Hospitalist 4      (5-2)    7a-7p",280,37,10-31-11,0700,1900
+"Michaels",323,62,"Hospitalist 5      (5-3)   7a-7p",281,38,10-31-11,0700,1900
+"Polomalu",274,39,"Hospitalist 6     (5-3)     7a-7p",282,39,10-31-11,0700,1900
+"Wozniak",433,325,"Hospitalist 7          7a-7p",283,40,10-31-11,0700,1900
+"O'Neill",370,220,"Palliative Care DRH",284,41,10-31-11,0700,1900
+"Harrison",262,27,"PA 1          7a-6p",285,42,10-31-11,0700,1800
+"Clinton",331,153,"NP Palliative Care 8:30a-5p",287,43,10-31-11,0830,1700
+"Wozniak",433,325,"9050 Morning",288,44,10-31-11,0700,1200
+"Johnson",236,1,"9050 Day Admit Shift 12p-9p",289,45,10-31-11,1200,2100
+"Lopez",321,60,"Evening Admit Shift 3p-12mn",290,46,10-31-11,1500,0000
+"Camden",324,63,"Night Shift 1        9p-7a",291,47,10-31-11,2100,0700
+"O'Rourke",254,19,"Night Shift 2 (9050)   9p-7a",292,48,10-31-11,2100,0700
+"Johnson",236,1,"Jeopardy Back Up Call",293,49,10-31-11,0700,0700
+"Smith",330,119,"Teaching Service 1 7a-7p",294,50,10-31-11,0700,1900
+"Ritchie",456,423,"NP-PA student 1      8a-6p",339,54,10-31-11,0800,1800
+"Butler",459,424,"NP-PA student 2      8a-6p",341,55,10-31-11,0800,1800
+"Vick",259,24,"Administrator on Call",347,56,10-31-11,0800,0800
