@@ -107,7 +107,9 @@ def one_day_schedule(schedule, date)
       
       hosp[:day] = hosp_day
       hosp[:stretch] = hosp_stretch
+      hosp[:assignable] = true
     else
+      hosp[:assignable] = true if hosp[:shift] == "Flex"
       hosp[:day] = 0
       hosp[:stretch] = 0
     end
