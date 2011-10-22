@@ -10,7 +10,7 @@ class TestAmionSchedule < Test::Unit::TestCase
   # end
 
   # def test_good_password_does_not_return_error
-  #   as = get_one_file("DRH Hospitalist")
+  #   as = get_one_file("Good password")
   #   assert_not_equal "Invalid password.", as
   # end
 
